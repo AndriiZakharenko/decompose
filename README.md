@@ -2,7 +2,7 @@
 
 ### Description
 
-- Splitted Article and Header components, added moch-routing
+- Splitted Article and Header components, added routing
 
 ### Stack
 
