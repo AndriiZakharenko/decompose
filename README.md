@@ -1,7 +1,25 @@
-# React Decompose
+# Decompose
 
-Splitted the `App.js` into components based on CSS blocks
+### Description
 
-- ## Demo Links
+- Splitted Article and Header components, added moch-routing
 
-- [DEMO LINK](https://AndriiZakharenko.github.io/react_decompose/)
+### Stack
+
+- HTML (BEM)
+- CSS (Bulma)
+- JS
+- React
+- React-Dom
+
+### Tools
+
+- ESlint
+- Prettier
+- Cypress
+- Mochawesome
+- Babel
+
+### Demo links
+
+- [Demo](https://AndriiZakharenko.github.io/decompose/)
