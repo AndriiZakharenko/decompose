@@ -10,7 +10,7 @@
 - CSS (Bulma)
 - JS
 - React
-- React-Dom
+- ReactDOM
 
 ### Tools
 
